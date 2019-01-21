@@ -1,0 +1,18 @@
+-- setup the coding tools
+- setup PHP
+- setup MySQL Server and MySQL Workbench
+- setup MySQL username and password
+-- SQL and PHP codes:
+- setup the DB: testdb.sql
+- setup PDO: pdo.php
+- test PDO: pdo_test.php
+- HTML page+PDO: pdo_input.php
+
+- learn PHP
+https://www.w3schools.com/php/
+https://www.sololearn.com/Course/PHP/
+- learn SQL
+https://www.w3schools.com/sql/
+https://www.sololearn.com/Course/SQL/
+
+// IMO it's simpler than e.g.: https://spring.io/guides/gs/relational-data-access/
